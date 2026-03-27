@@ -1,4 +1,4 @@
-# Gen Z Platform – All-in-One Social & Gamified App
+# OneBase– All-in-One Social & Gamified App
 
 ## Prerequisites
 - Node.js 18+
